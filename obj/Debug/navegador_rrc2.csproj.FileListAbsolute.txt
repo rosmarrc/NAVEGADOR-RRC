@@ -1,0 +1,11 @@
+C:\Users\rosma\source\repos\navegador_rrc2\bin\Debug\navegador_rrc2.exe.config
+C:\Users\rosma\source\repos\navegador_rrc2\bin\Debug\navegador_rrc2.exe
+C:\Users\rosma\source\repos\navegador_rrc2\bin\Debug\navegador_rrc2.pdb
+C:\Users\rosma\source\repos\navegador_rrc2\obj\Debug\navegador_rrc2.csproj.AssemblyReference.cache
+C:\Users\rosma\source\repos\navegador_rrc2\obj\Debug\navegador_rrc2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rosma\source\repos\navegador_rrc2\obj\Debug\navegador_rrc2.Form1.resources
+C:\Users\rosma\source\repos\navegador_rrc2\obj\Debug\navegador_rrc2.Properties.Resources.resources
+C:\Users\rosma\source\repos\navegador_rrc2\obj\Debug\navegador_rrc2.csproj.GenerateResource.cache
+C:\Users\rosma\source\repos\navegador_rrc2\obj\Debug\navegador_rrc2.csproj.CoreCompileInputs.cache
+C:\Users\rosma\source\repos\navegador_rrc2\obj\Debug\navegador_rrc2.exe
+C:\Users\rosma\source\repos\navegador_rrc2\obj\Debug\navegador_rrc2.pdb
